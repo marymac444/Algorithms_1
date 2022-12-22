@@ -1,6 +1,6 @@
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
-
+//C++
 class Solution {
 public:
     int firstBadVersion(int n) {

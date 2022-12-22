@@ -1,3 +1,4 @@
+```Python
 class Solution(object):
     def search(self, nums, target):
         if target in nums:
@@ -9,3 +10,4 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+```
